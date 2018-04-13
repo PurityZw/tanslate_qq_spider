@@ -41,5 +41,5 @@ USER_AGENT_LIST = [
 
 # Proxy代理列表
 PROXY_LIST = [
-    ""
+    "maozhaojun:ntkn0npx@114.67.224.167:16819"
 ]
