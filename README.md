@@ -1,5 +1,5 @@
 # tanslate_qq_spider
-使用爬虫爬取某公司翻译接口demo.
+基于Python2.7 爬取某翻译接口demo.
 
 ***
 ### 2018.4.14 接口测试ok
