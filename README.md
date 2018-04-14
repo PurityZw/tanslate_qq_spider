@@ -8,7 +8,8 @@ form_data中的session_uuid需要通过时间戳生成 str(int(time.time) * 1000
 root_url, 需要向该url发送post请求
 http://fanyi.qq.com/api/translate
 
-> headers = {
+```
+headers = {
 	"Accept": "application/json, text/javascript, */*; q=0.01",
 	"Accept-Language": "zh-CN,zh;q=0.9",
 	"Connection": "keep-alive",
@@ -26,5 +27,4 @@ http://fanyi.qq.com/api/translate
 "target": "en",
 "sourceText": 查找的内容,
 "sessionUuid": "translate_uuid1523623924692",
-
-
+```
