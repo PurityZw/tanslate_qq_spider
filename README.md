@@ -23,8 +23,10 @@ headers = {
 	"X-Requested-With": "XMLHttpRequest",
 }
 
-"source": "auto",
-"target": "en",
-"sourceText": 查找的内容,
-"sessionUuid": "translate_uuid1523623924692",
+form_data = {
+    "source": "auto",
+    "target": "en",
+    "sourceText": 查找的内容,
+    "sessionUuid": "translate_uuid1523623924692",
+}
 ```
