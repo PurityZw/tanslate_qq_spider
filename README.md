@@ -1,10 +1,10 @@
 # tanslate_qq_spider
 使用爬虫爬取某公司翻译接口demo.
-`
-QQ翻译
+
+root_url
 http://fanyi.qq.com/api/translate
 
-headers = {
+> headers = {
 	"Accept": "application/json, text/javascript, */*; q=0.01",
 	"Accept-Encoding": "gzip, deflate",
 	"Accept-Language": "zh-CN,zh;q=0.9",
@@ -25,5 +25,3 @@ headers = {
 "target": "en",
 "sourceText": "象宝宝",
 "sessionUuid": "translate_uuid1523623924692",
-
-`
